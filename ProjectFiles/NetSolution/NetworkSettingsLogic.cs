@@ -10,6 +10,8 @@ using FTOptix.Recipe;
 using FTOptix.SQLiteStore;
 using FTOptix.Store;
 using FTOptix.Alarm;
+using FTOptix.RAEtherNetIP;
+using FTOptix.CommunicationDriver;
 #endregion
 
 public class NetworkSettingsLogic : BaseNetLogic

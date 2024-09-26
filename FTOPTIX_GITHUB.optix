@@ -105,16 +105,32 @@ Project:
    Uri: 'urn:FTOptix:SQLiteStore:Net'
    Module: FTOptix.SQLiteStore.Net
    Version: 1.0
+  27:
+   Uri: 'urn:FTOptix:CommunicationDriver'
+   Module: FTOptix.CommunicationDriver
+   Version: 2.1
+  28:
+   Uri: 'urn:FTOptix:CommunicationDriver:Net'
+   Module: FTOptix.CommunicationDriver.Net
+   Version: 2.1
+  29:
+   Uri: 'urn:FTOptix:RAEtherNetIP'
+   Module: FTOptix.RAEtherNetIP
+   Version: 3.0
+  30:
+   Uri: 'urn:FTOptix:RAEtherNetIP:Net'
+   Module: FTOptix.RAEtherNetIP.Net
+   Version: 2.1
  Statistics:
-  TotalNodeCount: 1883
-  Objects: 351
+  TotalNodeCount: 1913
+  Objects: 358
   ObjectTypes: 20
-  Variables: 1502
+  Variables: 1525
   VariableTypes: 0
   DataTypes: 0
   Methods: 10
-  References: 47
+  References: 53
   ReferenceTypes: 0
-  Files: 27
+  Files: 32
  Nodes:
  - File: Nodes/FTOPTIX_GITHUB.yaml
