@@ -370,7 +370,7 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 40.0
+      Value: 340.0
     - Name: FontSize
       Type: BaseDataVariableType
       DataType: Size
