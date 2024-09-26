@@ -1,2 +1,5 @@
 Name: Model
 Type: ModelCategoryFolder
+Children:
+- Name: Object1
+  Type: BaseObjectType

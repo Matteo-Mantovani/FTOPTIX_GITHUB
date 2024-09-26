@@ -6,6 +6,10 @@ using System.Collections.Generic;
 using System.Text.RegularExpressions;
 using FTOptix.UI;
 using FTOptix.SerialPort;
+using FTOptix.Recipe;
+using FTOptix.SQLiteStore;
+using FTOptix.Store;
+using FTOptix.Alarm;
 #endregion
 
 public class NetworkInterfacesEditModelToSystemWriterLogic : BaseNetLogic

@@ -4,6 +4,10 @@ using FTOptix.UI;
 using UAManagedCore;
 using FTOptix.NetLogic;
 using FTOptix.SerialPort;
+using FTOptix.Recipe;
+using FTOptix.SQLiteStore;
+using FTOptix.Store;
+using FTOptix.Alarm;
 #endregion
 
 public class NetworkInterfaceLogic : BaseNetLogic

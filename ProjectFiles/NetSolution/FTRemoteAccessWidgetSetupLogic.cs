@@ -6,6 +6,10 @@ using FTOptix.System;
 using FTOptix.NetLogic;
 using FTOptix.Core;
 using FTOptix.CoreBase;
+using FTOptix.Recipe;
+using FTOptix.SQLiteStore;
+using FTOptix.Store;
+using FTOptix.Alarm;
 #endregion
 
 public class FTRemoteAccessWidgetSetupLogic : BaseNetLogic

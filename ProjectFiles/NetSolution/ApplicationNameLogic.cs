@@ -3,6 +3,10 @@ using FTOptix.HMIProject;
 using FTOptix.NetLogic;
 using FTOptix.UI;
 using FTOptix.SerialPort;
+using FTOptix.Recipe;
+using FTOptix.SQLiteStore;
+using FTOptix.Store;
+using FTOptix.Alarm;
 #endregion
 
 public class ApplicationNameLogic : BaseNetLogic

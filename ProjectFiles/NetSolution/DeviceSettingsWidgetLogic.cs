@@ -2,6 +2,10 @@
 using UAManagedCore;
 using FTOptix.HMIProject;
 using FTOptix.NetLogic;
+using FTOptix.Recipe;
+using FTOptix.SQLiteStore;
+using FTOptix.Store;
+using FTOptix.Alarm;
 #endregion
 
 public class DeviceSettingsWidgetLogic : BaseNetLogic
