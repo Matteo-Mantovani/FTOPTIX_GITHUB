@@ -6,6 +6,10 @@ Children:
   Children:
   - Name: Root
     Type: BaseObjectType
+    Children:
+    - Name: Variable1
+      Type: BaseDataVariableType
+      DataType: Int32
   - Class: Reference
     Target: ns=21;i=27
     Direction: Forward
@@ -42,3 +46,27 @@ Children:
   - Class: Reference
     Target: ns=21;i=60
     Direction: Forward
+  - Name: Store
+    Type: NodePointer
+    DataType: NodeId
+    Value: "/Objects/FTOPTIX_GITHUB/DataStores/EmbeddedDatabase1"
+    Children:
+    - Name: Kind
+      Type: PropertyType
+      DataType: NodeId
+      Value: "/Types/ObjectTypes/BaseObjectType/Store"
+  - Name: TargetNode
+    Type: NodePointer
+    DataType: NodeId
+    Value: "/Objects/FTOPTIX_GITHUB/Model/Object1"
+    Children:
+    - Name: Kind
+      Type: PropertyType
+      DataType: NodeId
+  - Name: EditModel
+    Id: g=6a33d2e24632e96c9d70c4b798e8da98
+    Type: BaseObjectType
+    Children:
+    - Name: Variable1
+      Type: BaseDataVariableType
+      DataType: Int32
