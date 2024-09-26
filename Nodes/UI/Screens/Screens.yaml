@@ -7,5 +7,7 @@ Children:
   ReferenceType: HasComponent
 - Name: Screen_Creatore
   Id: g=86333c35aa08bbeaa39571d44d5b29e0
+- Name: Screen_Collaboratore
+  Id: g=d69483ff6ce7cec2eb5fd4859ec6ac29
   Supertype: Screen
   ReferenceType: HasComponent
