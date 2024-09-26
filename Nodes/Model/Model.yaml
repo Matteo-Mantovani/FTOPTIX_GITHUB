@@ -12,5 +12,9 @@ Children:
   Type: BaseObjectType
   Children:
   - Name: Variable1
+- Name: Object_collaboratore
+  Type: BaseObjectType
+  Children:
+  - Name: Variable2
     Type: BaseDataVariableType
     DataType: Int32
