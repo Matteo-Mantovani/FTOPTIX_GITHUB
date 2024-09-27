@@ -11,6 +11,7 @@ using FTOptix.Alarm;
 using FTOptix.RAEtherNetIP;
 using FTOptix.CommunicationDriver;
 using FTOptix.Report;
+using FTOptix.DataLogger;
 #endregion
 
 public class NetworkInterfaceLogic : BaseNetLogic
