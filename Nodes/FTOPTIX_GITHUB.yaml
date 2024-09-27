@@ -71,17 +71,3 @@ Children:
     Type: PropertyType
     DataType: NodeId
     Value: "/Objects/FTOPTIX_GITHUB/Recipes/RecipeSchema1/EditModel"
-- Name: RecipeSchema2
-  Type: Alias
-  DataType: NodeId
-  Children:
-  - Name: Kind
-    Type: PropertyType
-    DataType: NodeId
-- Name: RecipeSchema3
-  Type: Alias
-  DataType: NodeId
-  Children:
-  - Name: Kind
-    Type: PropertyType
-    DataType: NodeId
