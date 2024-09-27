@@ -78,3 +78,10 @@ Children:
   - Name: Kind
     Type: PropertyType
     DataType: NodeId
+- Name: RecipeSchema3
+  Type: Alias
+  DataType: NodeId
+  Children:
+  - Name: Kind
+    Type: PropertyType
+    DataType: NodeId
