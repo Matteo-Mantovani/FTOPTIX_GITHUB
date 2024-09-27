@@ -5,15 +5,7 @@ Children:
   Id: g=99eaf5d2b7c2372645e075a407ece4a0
   Supertype: Screen
   ReferenceType: HasComponent
-- Name: Screen_Creatore
-  Id: g=86333c35aa08bbeaa39571d44d5b29e0
-  Supertype: Screen
-  ReferenceType: HasComponent
-- Name: Screen_test1
-  Id: g=076deab8bced79bc395275d4c397f2b6
-  Supertype: Screen
-  ReferenceType: HasComponent
-- Name: Screen2
-  Id: g=4323a642c45570a0f95d4674d540bc1e
+- Name: Screen_Collaboratore
+  Id: g=d69483ff6ce7cec2eb5fd4859ec6ac29
   Supertype: Screen
   ReferenceType: HasComponent
