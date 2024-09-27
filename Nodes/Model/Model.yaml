@@ -8,17 +8,10 @@ Children:
   - Name: Variable1
     Type: BaseDataVariableType
     DataType: Int32
+  - Name: Variable2
+    Type: BaseDataVariableType
+    DataType: Int32
 - Name: Object2
   Type: BaseObjectType
 - Name: Object3
   Type: BaseObjectType
-- Name: Object_Creatore
-  Type: BaseObjectType
-  Children:
-  - Name: Variable1
-- Name: Object_collaboratore
-  Type: BaseObjectType
-  Children:
-  - Name: Variable2
-    Type: BaseDataVariableType
-    DataType: Int32

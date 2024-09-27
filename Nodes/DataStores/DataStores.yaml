@@ -32,6 +32,27 @@ Children:
         - Name: /Variable1
           Type: StoreColumn
           DataType: Int32
+    - Name: RecipeSchema3
+      Type: SQLiteStoreTable
+      Children:
+      - Class: Reference
+        Target: ns=19;i=12
+        Direction: Forward
+      - Class: Reference
+        Target: ns=19;i=15
+        Direction: Forward
+      - Class: Reference
+        Target: ns=19;i=21
+        Direction: Forward
+      - Class: Reference
+        Target: ns=19;i=20
+        Direction: Forward
+      - Name: Columns
+        Type: BaseObjectType
+        Children:
+        - Name: Name
+          Type: StoreColumn
+          DataType: String
   - Class: Reference
     Target: ns=25;i=30
     Direction: Forward
