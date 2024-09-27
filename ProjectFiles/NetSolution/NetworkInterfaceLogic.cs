@@ -10,6 +10,7 @@ using FTOptix.Store;
 using FTOptix.Alarm;
 using FTOptix.RAEtherNetIP;
 using FTOptix.CommunicationDriver;
+using FTOptix.Report;
 #endregion
 
 public class NetworkInterfaceLogic : BaseNetLogic
