@@ -38,3 +38,39 @@ Children:
   - Class: Reference
     Target: ns=23;i=132
     Direction: Forward
+- Name: DigitalAlarm2
+  Id: g=86901a207d99a9c36cf2700444c8c4ba
+  Type: OffNormalAlarmController
+  Children:
+  - Name: NormalStateValue
+    Id: g=fb0cb7f85a599a23c0133005d4c56c34
+    Type: BaseDataVariableType
+    DataType: Double
+  - Name: InputValue
+    Id: g=7b784ad4d95bde8f701cf1700297c5b2
+    Type: BaseDataVariableType
+    DataType: Double
+  - Name: LastEvent
+    Id: g=7f77d5671b602986449924b9b9fedaf3
+    Type: BaseDataVariableType
+    DataType: BaseDataType
+    ValueRank: OneDimension
+    ArrayDimensions: [0]
+  - Class: Reference
+    Target: ns=23;i=81
+    Direction: Forward
+  - Class: Reference
+    Target: ns=23;i=82
+    Direction: Forward
+  - Class: Reference
+    Target: ns=23;i=83
+    Direction: Forward
+  - Class: Reference
+    Target: ns=23;i=130
+    Direction: Forward
+  - Class: Reference
+    Target: ns=23;i=135
+    Direction: Forward
+  - Class: Reference
+    Target: ns=23;i=132
+    Direction: Forward
