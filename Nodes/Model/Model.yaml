@@ -8,6 +8,9 @@ Children:
   - Name: Variable1
     Type: BaseDataVariableType
     DataType: Int32
+  - Name: Variable2
+    Type: BaseDataVariableType
+    DataType: Int32
 - Name: Object2
   Type: BaseObjectType
 - Name: Object3

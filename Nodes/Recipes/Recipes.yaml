@@ -179,3 +179,12 @@ Children:
   - Class: Reference
     Target: ns=21;i=60
     Direction: Forward
+  - Name: Store
+    Type: NodePointer
+    DataType: NodeId
+    Value: "/Objects/FTOPTIX_GITHUB/DataStores/EmbeddedDatabase1"
+    Children:
+    - Name: Kind
+      Type: PropertyType
+      DataType: NodeId
+      Value: "/Types/ObjectTypes/BaseObjectType/Store"
