@@ -10,3 +10,5 @@ Children:
     DataType: Int32
 - Name: Object2
   Type: BaseObjectType
+- Name: Object3
+  Type: BaseObjectType
